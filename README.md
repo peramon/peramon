@@ -4,16 +4,9 @@
 Soy un desarrollador de software, principalmente del lado del backend con conocimientos sólidos en Java, JavaScript, SQL y NoSQL. 
 Mi experiencia se extiende a lo largo de varios años en el desarrollo de aplicaciones web y móviles de alta calidad.
 
-#### Habilidades Técnicas
-- **Java** 
-- **JavaScript**
-- **SQL y NoSQL** 
-- **Metodologías y Herramientas** 
-
 #### Habilidades Personales
 - **Solución de problemas** 
 - **Comunicación**
-
 - **Autodisciplina** 
 ---
 
